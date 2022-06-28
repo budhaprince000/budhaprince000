@@ -1,6 +1,14 @@
 # 💫 About Me:
 [![](https://komarev.com/ghpvc/?username=budhaprince000&color=009688&style=for-the-badge&label=Profile+Views)](https://sureshchand12a.github.io/github-profile-builder/)
-🔭 I’m currently working on <br>🌱 I’m currently learning <br>👯 I’m looking to collaborate on <br>🤔 I’m looking for help with <br>💬 Ask me about <br>📫 How to reach me: <br>😄 Pronouns: He/His<br>⚡ Fun fact: 
+
+- 🔭 I’m currently working on [HamroCSIT](https://hamrocsit.com/)
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on [HamroCSIT](https://hamrocsit.com/)
+- 🤔 I’m looking for help with Javascript
+- 💬 Ask me about Javascript or any related tech-related stuff
+- 📫 How to reach me: [Twitter - @Princebudha5](https://twitter.com/Princebudha5), [Facebook - @prince.budhaa](https://facebook.com/prince.budhaa)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours in programming.
 
 
 ## 👨 Social Profiles
